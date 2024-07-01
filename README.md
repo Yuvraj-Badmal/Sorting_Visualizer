@@ -28,12 +28,12 @@ Sorting Visualizer is a C++ application utilizing the SDL2 library to graphicall
 
 ### Insertion Sort
 
-![image](https://github.com/Yuvraj-Badmal/Sorting_Visualizer/assets/107577454/b94ad61f-52c1-4e39-baf6-6d121f7b51d4)
+![](samples/example1.gif)
 
 
 ### Merge Sort
 
-![image](https://github.com/Yuvraj-Badmal/Sorting_Visualizer/assets/107577454/457aa5c1-5829-440d-86ab-88bf720279b8)
+![](samples/example2.gif)
 
 ## Contributing
 
