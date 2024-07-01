@@ -24,17 +24,6 @@ Sorting Visualizer is a C++ application utilizing the SDL2 library to graphicall
 
 > **Note**: Avoid repetitive commands to prevent latency and unexpected behavior. Wait for the current command to complete before issuing a new one.
 
-## Screenshots
-
-### Insertion Sort
-
-![](samples/example1.gif)
-
-
-### Merge Sort
-
-![](samples/example2.gif)
-
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
